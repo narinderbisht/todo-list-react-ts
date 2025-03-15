@@ -12,3 +12,10 @@ This is an basic todo list application. Application build using React, TypeScrip
 ![Screenshot](public/Todo-List-React-TypeScript-1.png)
 
 ![Screenshot](public/Todo-List-React-TypeScript-2.png)
+
+# In Version 2 updates.
+
+- Add react Router for multiple page links
+- Add Autocomplete or Async Search API
+
+![Screenshot](public/search-api-screenshot-1.png)
